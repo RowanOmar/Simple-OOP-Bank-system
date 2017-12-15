@@ -1,0 +1,3 @@
+org.jfree.chart.renderer.AbstractRendererTest$MyRendererChangeListener
+org.jfree.chart.renderer.AbstractRendererTest$TestRenderer
+org.jfree.chart.renderer.AbstractRendererTest

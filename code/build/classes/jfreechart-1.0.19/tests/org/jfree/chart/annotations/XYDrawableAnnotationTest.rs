@@ -1,0 +1,2 @@
+org.jfree.chart.annotations.XYDrawableAnnotationTest$TestDrawable
+org.jfree.chart.annotations.XYDrawableAnnotationTest

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/GUI/Main.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/GUI/InterestGui.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Transaction/DepositThread.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Person/teller.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Transaction/Balance.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Person/Customer.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Transaction/ChargesAndFees.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Transaction/Interest.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Person/CustomerService.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Person/Admin.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Transaction/CurrentAccount.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Transaction/SavingAccount.java</file>
+            <file>file:/C:/Users/fatma/Desktop/Bank/src/Transaction/Account.java</file>
+        </group>
+    </open-files>
+</project-private>

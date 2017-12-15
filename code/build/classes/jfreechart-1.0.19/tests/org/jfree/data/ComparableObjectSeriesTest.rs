@@ -1,0 +1,2 @@
+org.jfree.data.ComparableObjectSeriesTest
+org.jfree.data.ComparableObjectSeriesTest$MyComparableObjectSeries
